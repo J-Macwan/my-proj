@@ -1,0 +1,8 @@
+/* src/components/Feed.css */
+.feed {
+    flex: 1;
+    overflow-y: auto;
+    background-color: #ffffff;
+    padding: 1rem;
+  }
+  

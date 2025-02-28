@@ -1,0 +1,43 @@
+/* src/components/Post.css */
+.post {
+    background-color: #f8f8f8;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .follow-btn {
+    background-color: #4267B2;
+    color: white;
+    border: none;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .post-body {
+    margin: 1rem 0;
+  }
+  
+  .post-actions button {
+    margin-right: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .post-comments {
+    margin-top: 0.5rem;
+  }
+  
+  .comment {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 0.3rem 0.5rem;
+    margin-bottom: 0.3rem;
+  }
+  
